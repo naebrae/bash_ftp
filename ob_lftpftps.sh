@@ -6,9 +6,9 @@
 LOCDIR="/home/vagrant/outbound/"
 LOCFIL="*"
 #Explicit
-REMURL="ftp://ftp.lab.local:21"
+REMURL="ftp://ftp.lab.home:21"
 #Implicit 
-#REMURL="ftps://ftp.lab.local:990"
+#REMURL="ftps://ftp.lab.home:990"
 REMDIR="TST/inbound/"
 # USRPWD needs to be user,pass. lftp will not ask for a password
 USRPWD="vagrant,vagrant"

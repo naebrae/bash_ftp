@@ -4,7 +4,7 @@
 
 LOCDIR="/home/vagrant/out bound/"
 LOCFIL="file\ *.txt"
-REMURL="ftp.lab.local"
+REMURL="ftp.lab.home"
 REMDIR="TST/in bound/"
 USR="vagrant"
 PWD="vagrant"

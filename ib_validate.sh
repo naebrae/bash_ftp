@@ -4,7 +4,7 @@ STARTTIME=$(date +%s)
 
 LOCDIR="/home/vagrant/in bound/"
 REMFIL="file *"
-REMURL="ftp://ftp.lab.local"
+REMURL="ftp://ftp.lab.home"
 REMDIR="/~/out bound/"
 USRPWD="vagrant:vagrant"
 

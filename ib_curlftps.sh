@@ -5,9 +5,9 @@
 
 LOCDIR="/home/vagrant/inbound/"
 #Explicit
-REMURL="ftp://ftp.lab.local:21"
+REMURL="ftp://ftp.lab.home:21"
 #Implicit 
-#REMURL="ftps://ftp.lab.local:990"
+#REMURL="ftps://ftp.lab.home:990"
 REMDIR="/TST/outbound/"
 REMFIL="*"
 REMARC="/TST/outbound_archive/"

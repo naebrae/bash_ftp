@@ -4,7 +4,7 @@ STARTTIME=$(date +%s)
 
 LOCDIR="/home/vagrant/out bound/"
 LOCFIL="*"
-REMURL="ftp://ftp.lab.local"
+REMURL="ftp://ftp.lab.home"
 REMDIR="/in bound/"
 # USRPWD can be user:pass or just user and curl will ask for a password
 USRPWD="vagrant:vagrant"

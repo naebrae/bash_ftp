@@ -4,7 +4,7 @@
 
 LOCDIR="/home/vagrant/inbound/"
 REMFIL="*"
-REMURL="sftp://ftp.lab.local:22"
+REMURL="sftp://ftp.lab.home:22"
 REMDIR="TST/outbound/"
 REMARC="TST/outbound_archive/"
 # USRPWD can be user:pass or just user and curl will ask for a password

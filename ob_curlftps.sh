@@ -7,9 +7,9 @@ LOCDIR="/home/vagrant/outbound/"
 LOCFIL="*"
 LOCARC="/home/vagrant/outbound_archive/"
 #Explicit
-REMURL="ftp://ftp.lab.local:21"
+REMURL="ftp://ftp.lab.home:21"
 #Implicit 
-#REMURL="ftps://ftp.lab.local:990"
+#REMURL="ftps://ftp.lab.home:990"
 REMDIR="/TST/inbound/"
 # USRPWD can be user:pass or just user and curl will ask for a password
 USRPWD="vagrant:vagrant"
